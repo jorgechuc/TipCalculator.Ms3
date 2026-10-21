@@ -31,6 +31,7 @@
                     Grid.Row="0"
                     Grid.Column="1"
                     Grid.ColumnSpan="2"
+                    TextColor="Black"
                     BackgroundColor="WhiteSmoke"/>
 
                 <Label
@@ -42,6 +43,7 @@
                 <Entry
                     Grid.Row="1"
                     Grid.Column="1"
+                    TextColor="Black"
                     BackgroundColor="WhiteSmoke"/>
                 <Stepper
                     Grid.Row="1"
@@ -78,6 +80,7 @@
                 <Entry
                     Grid.Row="3"
                     Grid.Column="1"
+                    TextColor="Black"
                     BackgroundColor="WhiteSmoke"/>
                 <Stepper
                     Grid.Row="3"
